@@ -13,11 +13,11 @@ To install the dotwise backend, follow the steps below:
 
 1.  Clone the repository from GitHub:
 
-    git clone https://github.com/your-username/dotwise.git
+    git clone https://github.com/JamelSyh/dotwise.git
 
 2.  Navigate to the project directory:
 
-    cd dotwise
+    cd backend
 
 3.  Create a virtual environment:
 
